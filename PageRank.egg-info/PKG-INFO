@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: PageRank
+Version: 0.1
+Summary: PageRank with MRJob
+Home-page: UNKNOWN
+Author: Ian Fitzsimmons
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: PageRank based on Google's PageRank algorithm, including lost mass and dampening.
+Platform: UNKNOWN
