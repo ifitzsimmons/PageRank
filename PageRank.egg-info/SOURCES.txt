@@ -1,9 +1,0 @@
-README.md
-setup.py
-PageRank.egg-info/PKG-INFO
-PageRank.egg-info/SOURCES.txt
-PageRank.egg-info/dependency_links.txt
-PageRank.egg-info/not-zip-safe
-PageRank.egg-info/top_level.txt
-tests/PageRank_test.py
-tests/__init__.py
